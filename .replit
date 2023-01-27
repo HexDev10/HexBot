@@ -1,0 +1,4 @@
+run = "node . --db mongodb+srv://KennOfc:gustiokasuwardika@cluster0.vjuzssu.mongodb.net/?retryWrites=true&w=majority"
+
+[nix]
+channel = "stable-21_11"
